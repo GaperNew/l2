@@ -12,9 +12,6 @@
    - har_window_statistics.csv
    - har_engineered_features.csv
 
-Что можно поменять перед сдачей:
-- В первой markdown-ячейке добавить ФИО, группу и дату.
-- При желании заменить selected_obs на другой индекс наблюдения.
 
 Содержание:
 - загрузка HAR dataset;
